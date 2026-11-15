@@ -1,4 +1,4 @@
-# Mundo Blox · Pingastop77
+# Mundo Blox
 
 Landing page em português. O guia animado aparece no início, antes da capa. Mostra como abrir a página pelo TikTok e mantém o exemplo de copiar e colar.
 
